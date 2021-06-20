@@ -1,2 +1,3 @@
-# travel-blog
-A personal travel blog hosted on Github pages. :) 
+# Travek logs by Rajat Agrawal
+
+Little adventures with family and friends.
